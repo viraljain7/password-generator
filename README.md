@@ -1,5 +1,9 @@
 # React + Vite
 
+
+#Final Screenshot Website Preview
+![Screenshot (1)](https://github.com/viraljain7/password-generator/assets/88425229/39993166-af42-4e70-b42b-2fccc10d57de)
+
 ## UI/UX Template
 
 ```js
@@ -203,7 +207,8 @@ function App() {
               onChange={(e) => {
                 setLength(e.target.value);
               }}
-            />
+            />![Screenshot (1)](https://github.com/viraljain7/password-generator/assets/88425229/f6de977b-c2c7-4744-8902-a4a5e58c1c79)
+
             <label>length : {length}</label>
           </div>
           <div className="flex items-center gap-x-1 ">
@@ -234,5 +239,3 @@ function App() {
 
 export default App;
 ```
-
-![preview](https://ibb.co/FBBSrkZ)
