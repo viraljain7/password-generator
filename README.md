@@ -1,7 +1,7 @@
 # React + Vite
 
 
-#Final Screenshot Website Preview
+# Final Screenshot Website Preview
 ![Screenshot (1)](https://github.com/viraljain7/password-generator/assets/88425229/39993166-af42-4e70-b42b-2fccc10d57de)
 
 ## UI/UX Template
